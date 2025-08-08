@@ -13,6 +13,7 @@ from torch.hub import tqdm
 #################
 
 from nirvana_utils import copy_snapshot_to_out, copy_out_to_snapshot
+raise 123
 
 
 class PatchExtractor(nn.Module):
